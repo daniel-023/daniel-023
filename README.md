@@ -1,6 +1,6 @@
 # Hello, I'm Daniel 👋
 
-I'm a double major in Linguistics and History with a strong interest in data science and speech and language technology.
+I'm a double major in linguistics and history with a strong interest in data science and speech and language technology.
 
 ## 🌟 Projects
 ### NLP
