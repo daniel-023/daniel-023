@@ -2,6 +2,7 @@
 
 I'm a double major in linguistics and history with a strong interest in data science and speech and language technology.
 
+🏫 **Nanyang Technological University**
 ## 🌟 Projects
 ### NLP
 - **[r/NTU RAG Chatbot](https://github.com/daniel-023/Reddit-RAG-Chatbot)**: Retrieval Augmented Generation (RAG) chatbot using context from r/NTU subreddit discussions
