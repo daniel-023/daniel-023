@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Daniel 👋
 
-<!--
-**daniel-023/daniel-023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a double major in Linguistics and History with a strong interest in data science and speech and language technology.
 
-Here are some ideas to get you started:
+## 🌟 Projects
+### NLP
+- **[r/NTU RAG Chatbot](https://github.com/daniel-023/Reddit-RAG-Chatbot)**: Retrieval Augmented Generation (RAG) chatbot using context from r/NTU subreddit discussions
+- **[TextRep](https://github.com/daniel-023/TextRep)**: Comparing text vectorisation techniques with machine learning for offensive speech detection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Digital Humanities
+- **[URECA Parliament Topic Modelling](https://github.com/daniel-023/URECA-Parliament-Topic-Modeling)**: Digital humanities project performing topic modelling on Singapore’s parliament reports
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/daniel-handoyo/)
+
+
+Thanks for stopping by! 😊
