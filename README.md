@@ -12,7 +12,7 @@ I'm a double major in linguistics and history with an interest in data science a
 - **[URECA Parliament Topic Modelling](https://github.com/daniel-023/URECA-Parliament-Topic-Modeling)**: Digital humanities project performing topic modelling on Singapore’s parliament reports
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/daniel-handoyo/)
+- **[LinkedIn](https://www.linkedin.com/in/daniel-handoyo/)
 
 
 Thanks for stopping by! 😊
