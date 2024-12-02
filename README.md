@@ -1,6 +1,6 @@
 # Hello, I'm Daniel 👋
 
-I'm a double major in linguistics and history with an interest in data science and speech and language technology.
+I'm a double major in linguistics and history with an interest in speech and language technology.
 
 🏫 **Nanyang Technological University**
 ## 🌟 Projects
