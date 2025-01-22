@@ -2,7 +2,6 @@
 
 I'm an undergraduate at Nanyang Technological University with an interest in speech and language technology.
 
-🏫 **Nanyang Technological University**
 ## 🌟 Projects
 - **[r/NTU RAG Chatbot](https://github.com/daniel-023/Reddit-RAG-Chatbot)**: Retrieval Augmented Generation (RAG) chatbot using r/NTU subreddit discussions
 - **[TextRep](https://github.com/daniel-023/TextRep)**: Comparing text vectorisation techniques for offensive speech detection.
