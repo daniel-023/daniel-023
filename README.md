@@ -10,6 +10,6 @@ I'm an undergraduate at Nanyang Technological University with an interest in spe
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-handoyo/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](daniel023@e.ntu.edu.sg)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:daniel023@e.ntu.edu.sg)
 
 Thanks for stopping by! 😊
