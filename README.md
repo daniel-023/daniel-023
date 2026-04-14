@@ -9,6 +9,6 @@ I'm an undergraduate at Nanyang Technological University with an interest in spe
 - **[Parliament Topic Modelling](https://github.com/daniel-023/URECA-Parliament-Topic-Modeling)**: Topic modelling on Singapore’s parliament reports
 
 ## 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-handoyo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-handoyo/)
 
-Thanks for stopping by! 😊
+Thanks for stopping by!
