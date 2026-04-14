@@ -1,6 +1,6 @@
 # Hello, I'm Daniel 👋
 
-I'm an undergraduate at Nanyang Technological University with an interest in speech and language technology.
+I'm a linguistics undergraduate at Nanyang Technological University with an interest in speech and language technology.
 
 ## 🌟 Projects
 - **[Speech-based Demographic Attribute Prediction](https://github.com/daniel-023/Speaker-Demographic-Prediction)**: Demographic attribute prediction for Singapore speakers using WavLM embeddings
