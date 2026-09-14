@@ -1,14 +1,18 @@
-# Hello, I'm Daniel 👋
+# Daniel Handoyo
 
-I'm a linguistics graduate from Nanyang Technological University with an interest in speech and language technology.
+I am currently pursuing an MSc in Speech and Language Processing, with interests in speech and language technology, natural language processing, and applied machine learning.
 
-## 🌟 Projects
+## Selected Projects
 
-- **[Singapore English (SgE) Demographic Modelling](https://github.com/daniel-023/sge-demographic-modelling)**: Predicting gender, ethnicity, and age from Singapore English speech using WavLM Base+ embeddings with MLP and LSTM prediction heads.
-- **[NTU Subreddit RAG Chatbot](https://github.com/daniel-023/Reddit-RAG-Chatbot)**: Retrieval-Augmented Generation chatbot for exploring r/NTU discussions using Reddit data, FAISS retrieval, and a Streamlit interface.
-- **[Parliament Topic Modelling](https://github.com/daniel-023/URECA-Parliament-Topic-Modeling)**: BERTopic-based analysis and visualisation of Singapore parliamentary debates from 1965 to 1976.
+- **[Singapore English Demographic Modelling](https://github.com/daniel-023/sge-demographic-modelling)**  
+  Models gender, ethnicity, and age from Singapore English speech using WavLM Base+ embeddings with MLP and LSTM prediction heads.
 
-## 📫 How to Reach Me
+- **[NTU Subreddit RAG Chatbot](https://github.com/daniel-023/Reddit-RAG-Chatbot)**  
+  A retrieval-augmented generation chatbot for exploring r/NTU discussions, using Reddit data, FAISS retrieval, and a Streamlit interface.
+
+- **[Parliament Topic Modelling](https://github.com/daniel-023/URECA-Parliament-Topic-Modeling)**  
+  Applies BERTopic to analyse Singapore parliamentary debates from 1965 to 1976.
+
+## Contact
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-handoyo/)
-
-Thanks for stopping by!
