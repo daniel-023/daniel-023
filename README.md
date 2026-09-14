@@ -1,6 +1,6 @@
 # Daniel Handoyo
 
-I am currently pursuing an MSc in Speech and Language Processing, with interests in speech and language technology, natural language processing, and applied machine learning.
+I'm currently pursuing an MSc in Speech and Language Processing at the University of Edinburgh, with interests in speech and language technology, natural language processing, and applied machine learning.
 
 ## Selected Projects
 
